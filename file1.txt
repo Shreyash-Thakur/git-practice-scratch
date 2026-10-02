@@ -1,3 +1,4 @@
 hello
 extra line
 unstaged change
+stash me
